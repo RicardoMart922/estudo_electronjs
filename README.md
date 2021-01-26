@@ -1,2 +1,7 @@
-# estudo_eletronjs
- Estudo realizado com objetivo de conhecer o ElectronJS e ao final realizar a construção de um CRUD.
+<h1>Estudo EletronJS</h1>
+<section>
+    <h2>Introdução</h2>
+    <p>
+    Estudo realizado com objetivo de conhecer o ElectronJS e ao final realizar a construção de um CRUD.
+    </p>
+</section>
