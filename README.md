@@ -1,4 +1,4 @@
-<h1>Estudo EletronJS</h1>
+<h1>Estudo ElectronJS</h1>
 <section>
     <h2>Introdução</h2>
     <p>
