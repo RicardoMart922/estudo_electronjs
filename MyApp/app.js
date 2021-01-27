@@ -1,4 +1,4 @@
-const {app, BroserWindow } = require('electron')
+const { app, BroserWindow } = require('electron')
 require('electron-reload')(__dirname)
 
 function createWindow() {
