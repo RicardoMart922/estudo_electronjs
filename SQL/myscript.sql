@@ -1,0 +1,8 @@
+CREATE DATABASE myappdb;
+
+USE myappdb;
+
+CREATE TABLE tbl_name (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL 
+);
