@@ -1,4 +1,4 @@
-const { app, BroserWindow } = require('electron')
+const { app, BrowserWindow } = require('electron')
 require('electron-reload')(__dirname)
 
 function createWindow() {
@@ -10,7 +10,7 @@ function createWindow() {
         }
     }
 
-    const mainWindow = new BroserWindow(CONFIGURATION_MAIN_WINDOW)
+    const mainWindow = new BrowserWindow(CONFIGURATION_MAIN_WINDOW)
 
     mainWindow.loadFile(__dirname + '/view/mainWindow.html')
 }
